@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik0924" alt="hardik0924" /></a> </p>
 
-- 🔭 I’m currently working on [RapidLibrary360](https://www.rapidsofttechsolutions.app/rapidlibrary360)
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
